@@ -1,5 +1,8 @@
-# 乐剧票务
+# 期货开户助手-原油黄金投资平台
 
-We are an app that provides online bookings for all kinds of concert tickets. Users can book concert tickets for their favorite stars to participate in star concerts. We guarantee good service and quality.
+期貨開戶助手，立志於成為廣大期貨行情愛好者首選的APP軟件！
+資訊快訊：第一時間了解期貨等相關動態。
+極速行情：熱門商品期貨行情信息。毫秒級的行情數據更新，時刻與國內外期貨市場行情同步，讓您與市場永不脫節。
+期貨社區：業內期貨高手實時行情分析，第一時間了解操作動態，讓您時刻與頂尖高手同步信息。
 
-If you have any questions, please contact technical support email: na733fengdan@163.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：jinmofangnet@163.com，謝謝您的支持。
