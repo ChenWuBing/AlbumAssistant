@@ -1,8 +1,8 @@
-# 期货开户助手-原油黄金投资平台
+# 百亿期货-原油黄金投资平台
 
-期貨開戶助手，立志於成為廣大期貨行情愛好者首選的APP軟件！
-資訊快訊：第一時間了解期貨等相關動態。
-極速行情：熱門商品期貨行情信息。毫秒級的行情數據更新，時刻與國內外期貨市場行情同步，讓您與市場永不脫節。
-期貨社區：業內期貨高手實時行情分析，第一時間了解操作動態，讓您時刻與頂尖高手同步信息。
+百亿期货, determined to become the preferred APP software for the majority of futures market lovers!
+Information Alert: Learn about futures and other related dynamics as soon as possible.
+Speed Quotes: Market information for popular commodity futures. The millisecond-level market data update is always synchronized with the domestic and foreign futures market, so that you will never be disconnected from the market.
+Futures community: Real-time market analysis of futures experts in the industry, the first time to understand the operation dynamics, so that you can always synchronize information with top experts.
 
-如有任何疑問，請聯繫技術支持電子郵件：jinmofangnet@163.com，謝謝您的支持。
+If you have any questions, please contact technical support email: jinmofangnet@163.com, thank you for your support.
