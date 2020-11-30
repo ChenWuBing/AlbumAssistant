@@ -1,8 +1,9 @@
-# 百亿期货-原油黄金投资平台
+# 云上期货--掌中资讯宝
 
-百亿期货, determined to become the preferred APP software for the majority of futures market lovers!
-Information Alert: Learn about futures and other related dynamics as soon as possible.
-Speed Quotes: Market information for popular commodity futures. The millisecond-level market data update is always synchronized with the domestic and foreign futures market, so that you will never be disconnected from the market.
-Futures community: Real-time market analysis of futures experts in the industry, the first time to understand the operation dynamics, so that you can always synchronize information with top experts.
+我们立志成为广大爱好者的首选APP软件！
+实时资讯：让你不再遗漏任何重要信息。
+信息警报：尽快了解产业和其他相关动态。
+快速报价：流行商品的市场信息。 毫秒级市场数据更新始终与国内外资讯市场同步，因此您将永远不会与市场脱节。
+交流社区：业内的专家的实时市场动态分析，是第一次了解操作动态，以便您始终可以与顶级专家同步信息。
 
-If you have any questions, please contact technical support email: jinmofangnet@163.com, thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：gzgutaotech@ios004.com，谢谢您的支持。
